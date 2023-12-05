@@ -1,0 +1,10 @@
+C:\Users\entitd\source\repos\visalab3\visalab3\bin\Debug\visalab3.exe.config
+C:\Users\entitd\source\repos\visalab3\visalab3\bin\Debug\visalab3.exe
+C:\Users\entitd\source\repos\visalab3\visalab3\bin\Debug\visalab3.pdb
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.csproj.AssemblyReference.cache
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.Form1.resources
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.Properties.Resources.resources
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.csproj.GenerateResource.cache
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.csproj.CoreCompileInputs.cache
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.exe
+C:\Users\entitd\source\repos\visalab3\visalab3\obj\Debug\visalab3.pdb
